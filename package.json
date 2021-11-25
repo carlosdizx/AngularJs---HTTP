@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "prettier": "^2.4.1"
+  },
+  "name": "angularjs",
+  "description": "Aprendiendo Angular Js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosdizx/AngularJs.git"
+  },
+  "author": "Carlos Díaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosdizx/AngularJs/issues"
+  },
+  "homepage": "https://github.com/carlosdizx/AngularJs#readme"
+}
